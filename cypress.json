@@ -1,4 +1,5 @@
 {
+  "projectId": "123",
   "video": false,
   "waitForAnimations": false,
   "watchForFileChanges": false
