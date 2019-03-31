@@ -4,9 +4,16 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "start": "cypress run"
   },
   "devDependencies": {
     "cypress": "^3.2.0"
+  },
+  "dependencies": {
+    "@cypress/webpack-preprocessor": "^4.0.3",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.1",
+    "webpack": "^4.29.6"
   }
 }
