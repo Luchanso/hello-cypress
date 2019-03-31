@@ -8,7 +8,7 @@
     "start": "cypress run"
   },
   "devDependencies": {
-    "cypress": "^3.2.0"
+    "cypress": "3.2.0"
   },
   "dependencies": {
     "@cypress/webpack-preprocessor": "^4.0.3",
